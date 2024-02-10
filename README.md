@@ -27,10 +27,6 @@
 
 * [idk what to think about this](https://www.murielvega.net/)
 
-### Etc.
-
-* [Cool Animation & Product (LungTank)](https://lungtank.com/)
-
 ## Dev Tools
 ### Icons
 * [Icon SVGs (only company logos)](https://simpleicons.org/)
@@ -103,6 +99,8 @@
 
 ### Unrelated
 * [Leave No trace on the computer](https://tails.boum.org/news/version_5.9/index.ru.html)
+
+* [Cool Animation & Product (LungTank)](https://lungtank.com/)
 
 * [Example of site from fireship](https://kung.foo/)
 
