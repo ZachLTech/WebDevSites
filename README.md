@@ -20,6 +20,12 @@
 
 * [Interesting animations](https://www.supah.it/portfolio/)
 
+* [Nice and simple + cool about page](https://www.guanbaic.com/)
+
+* [not too crazy but a little unique](https://www.dalyabaron.com/)
+
+* [idk what to think about this](https://www.murielvega.net/)
+
 ### Etc.
 
 * [Cool Animation & Product (LungTank)](https://lungtank.com/)
